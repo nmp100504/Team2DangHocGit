@@ -4,4 +4,4 @@ Hello moi nguoi
 
 Toi la tran duc ky - takecare team 2
 
-Toi rat dep trai
+Toi rat dep trai, nhieu tien
